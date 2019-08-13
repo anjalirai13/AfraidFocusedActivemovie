@@ -1,0 +1,6 @@
+Writing to text file using fstream. It should print
+4
+3
+6
+7
+12
